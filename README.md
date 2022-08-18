@@ -12,3 +12,4 @@ OpenCV was suitable to be used for this project for image processing purposes in
 The difference in the output of different thresholding is shown in the image below, which is one of the output of the program.
 
 <img width="615" alt="Screenshot 2022-08-18 at 3 13 41 PM" src="https://user-images.githubusercontent.com/72700837/185332979-f1013dad-4e2a-4e8a-b35b-b39b484e9c73.png">
+
