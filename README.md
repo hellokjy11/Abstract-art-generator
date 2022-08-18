@@ -13,3 +13,6 @@ The difference in the output of different thresholding is shown in the image bel
 
 <img width="615" alt="Screenshot 2022-08-18 at 3 13 41 PM" src="https://user-images.githubusercontent.com/72700837/185332979-f1013dad-4e2a-4e8a-b35b-b39b484e9c73.png">
 
+# Example Outputs
+
+<img width="1012" alt="Screenshot 2022-08-18 at 4 02 37 PM" src="https://user-images.githubusercontent.com/72700837/185343539-a9f0281f-3b86-4971-9a1e-4c8c22ee8d30.png">
